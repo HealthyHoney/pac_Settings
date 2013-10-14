@@ -720,6 +720,11 @@
     <string name="toast_Random_animation">Random</string>
     <string name="toast_test_animation">Test toast animation</string>
 
+    <!-- UI debug setting: show CPU info? [CHAR LIMIT=25] -->
+    <string name="show_cpu_info">Show CPU info</string>
+    <!-- UI debug setting: show cpu usage summary [CHAR LIMIT=50] -->
+    <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>
+
     <!-- User Selectable Tether Networks-->
     <string name="tether_usb_network_summary">Press to change USB Network</string>
     <string name="tether_usb_network_text">USB Tether Network</string>

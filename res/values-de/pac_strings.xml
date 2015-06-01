@@ -630,4 +630,8 @@
   <string name="wakelock_blocker_reload">Aktualisieren</string>
   <string name="wakelock_blocker_warning_title">VORSICHT</string>
   <string name="wakelock_blocker_warning">Blockierte Wakelocks können zu, Instabilität, Abstürzen oder Datenverlust führen</string>
+
+  <!-- Double tap gesture anywhere on the lock screen put device to sleep -->
+  <string name="double_tap_sleep_anywhere_title">Standby durch Doppelklick</string>
+  <string name="double_tap_sleep_anywhere_summary">Doppelklick auf dem Sperrbildschirm versetzt das Gerät in Standby</string>
 </resources>

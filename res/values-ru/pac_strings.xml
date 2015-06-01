@@ -660,4 +660,8 @@
   <string name="wakelock_blocker_reload">Обновить</string>
   <string name="wakelock_blocker_warning_title">Соблюдайте осторожность</string>
   <string name="wakelock_blocker_warning">Блокировка WakeLock может вызвать нестабильность, ошибки и потерю данных</string>
+
+  <!-- Double tap gesture anywhere on the lock screen put device to sleep -->
+  <string name="double_tap_sleep_anywhere_title">Двойное нажатие для сна везде</string>
+  <string name="double_tap_sleep_anywhere_summary">Двойное нажатие для сна в любом месте экрана блокировки</string>
 </resources>

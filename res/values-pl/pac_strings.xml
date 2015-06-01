@@ -630,4 +630,8 @@
   <string name="wakelock_blocker_reload">Załaduj ponownie</string>
   <string name="wakelock_blocker_warning_title">Postępuj ostrożnie</string>
   <string name="wakelock_blocker_warning">Blokowanie wybudzeń może spowodować niestabilność, awarię lub utratę danych</string>
+
+  <!-- Double tap gesture anywhere on the lock screen put device to sleep -->
+  <string name="double_tap_sleep_anywhere_title">Stuknij ekran dwa razy aby uśpić</string>
+  <string name="double_tap_sleep_anywhere_summary">Uśpij urządzenie stukając dwa razy w dowolnym miejscu zablokowany ekran</string>
 </resources>

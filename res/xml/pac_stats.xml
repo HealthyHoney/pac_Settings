@@ -20,7 +20,7 @@
     android:title="@string/pac_stats_title" >
 
     <CheckBoxPreference
-        android:defaultValue="true"
+        android:defaultValue="false"
         android:key="pref_pac_opt_in"
         android:title="@string/enable_reporting_title" />
 

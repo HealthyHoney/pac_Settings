@@ -125,6 +125,12 @@
                 android:title="@string/pac_version"
                 android:summary="@string/pac_version_default" />
 
+        <!-- Android version -->
+        <Preference android:key="android_version"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/android_version_title"
+                android:summary="@string/android_version_default"/>
+
         <!-- Device firmware version -->
         <Preference android:key="firmware_version" 
                 style="?android:preferenceInformationStyle"

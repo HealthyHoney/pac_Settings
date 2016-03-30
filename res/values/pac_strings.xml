@@ -396,6 +396,10 @@
     <string name="pac_version">PAC version</string>
     <string name="pac_version_default">Unknown</string>
 
+    <!-- Android Version -->
+    <string name="android_version_title">Lollipop</string>
+    <string name="android_version_default">5.1.1 LMY49I Release 36</string>
+
     <!-- PAC Stats -->
     <string name="pac_stats_title">PAC Stats</string>
     <string name="pac_stats_summary">Help make this ROM better by opting into anonymous statistics reporting</string>

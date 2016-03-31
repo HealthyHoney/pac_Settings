@@ -996,4 +996,8 @@
                  <b>Totale commit:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/>
                  <b>Ultimo aggiornamento:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <string name="quick_settings_reset_message">Reimpostare i tile rapidi?</string>
+
+  <!-- Superuser indicator on status bar -->
+  <string name="su_indicator">Indicatore superuser</string>
+  <string name="su_indicator_summary">Mostra l\'indicatore superuser sulla status bar quando una sessione root è attiva</string>
 </resources>
